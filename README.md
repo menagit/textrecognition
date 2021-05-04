@@ -16,4 +16,4 @@ yours once you clone the repo.
 
 ### Post Reference
 
-[https://medium.com/@emenaa/flutter-text-recognition-with-firebase-ml-vision-80f887a0711a](https://medium.com/@emenaa/flutter-text-recognition-with-firebase-ml-vision-80f887a0711a)
+[https://emenaa.medium.com/flutter-text-recognition-with-firebase-ml-vision-80f887a0711a](https://emenaa.medium.com/flutter-text-recognition-with-firebase-ml-vision-80f887a0711a)
